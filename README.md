@@ -10,10 +10,6 @@ NetApp-PowerShell is a collection of PowerShell scripts and cmdlets aimed at sim
 
 - Connect to NetApp storage controllers
 - Perform common storage tasks like creating/deleting volumes, snapshots, and aggregates
-- Query NetApp system health and performance metrics
-- Automate backup operations
-- Generate reports
-- Integration with CI/CD workflows
 
 ## Getting Started
 
